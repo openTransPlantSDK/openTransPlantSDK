@@ -1,0 +1,6 @@
+[submodule "CPP"]
+	path = CPP
+	url = https://github.com/openTransPlantSDK/openTransPlantSDK_CPP
+[submodule "UE"]
+	path = UE
+	url = https://github.com/openTransPlantSDK/openTransPlantSDK_UE
