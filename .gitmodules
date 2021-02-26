@@ -4,3 +4,6 @@
 [submodule "UE"]
 	path = UE
 	url = https://github.com/openTransPlantSDK/openTransPlantSDK_UE
+[submodule "Lua"]
+	path = Lua
+	url = https://github.com/openTransPlantSDK/openTransPlantSDK_Lua.git
